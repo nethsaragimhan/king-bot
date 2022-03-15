@@ -5,7 +5,7 @@
     "keywords": ["𝙽𝙴𝚃𝙷𝚂𝙰𝚁𝙰 𝙶𝙸𝙼𝙷𝙰𝙽 | PG", "𝐊𝐢𝐧𝐠 𝐁𝐨𝐭"],
     "stack": "container",
     "env": {
-      "DRAGONX_SESSION": {
+      "KINGBOT_SESSION": {
             "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
             "required": true
         },
