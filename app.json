@@ -1,8 +1,8 @@
 {
-    "name": "⎝🛡️ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ  🛡️⎠ WhatsApp User Bot v1.0.0",
-    "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
+    "name": "[🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️] WhatsApp User Bot v1.0.0",
+    "description": "World best Sinhala/English WhatsApp Button Bot Developer 𝙽𝙴𝚃𝙷𝚂𝙰𝚁𝙰 𝙶𝙸𝙼𝙷𝙰𝙽 Enjoy Our Bot",
     "logo": "https://telegra.ph/file/35883180004518cb15fe9.jpg",
-    "keywords": ["Janith sadanuwan | PG", "Dragon x"],
+    "keywords": ["𝙽𝙴𝚃𝙷𝚂𝙰𝚁𝙰 𝙶𝙸𝙼𝙷𝙰𝙽 | PG", "𝐊𝐢𝐧𝐠 𝐁𝐨𝐭"],
     "stack": "container",
     "env": {
       "DRAGONX_SESSION": {
@@ -203,7 +203,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭⎠│"
+            "value": " ▷ ᴹᴬᴰᴱ 🄱🅈 [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️] աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
