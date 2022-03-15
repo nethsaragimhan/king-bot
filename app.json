@@ -6,7 +6,7 @@
     "stack": "container",
     "env": {
       "KINGBOT_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
+            "description": "Paste your QR session that you got from https://replit.com/@ACSamankumara/King-bot-2?v=1",
             "required": true
         },
         "BUTTON_CMD": {
@@ -20,7 +20,8 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*"
+            "value": "🖲️.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*\n𝙺𝙸𝙽𝙶 𝙱𝙾𝚃 𝙸𝚂 𝙳𝙾𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚂𝙾𝙽𝙶 ➛ 🇱🇰(•̀ᴗ•́)"
+
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE",
