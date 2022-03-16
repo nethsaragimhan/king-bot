@@ -1,7 +1,7 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Janithsadanuwan/Dragonx-Wa-BotMain.git /root/Dragonx-Wa-BotMain
-WORKDIR /root/Dragonx-Wa-BotMain/
+RUN git clone https://github.com/nethsaragimhan/king-bot.git /root/King-Wa-BotMain
+WORKDIR /root/King-Wa-BotMain/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
