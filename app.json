@@ -10,7 +10,7 @@
             "required": true
         },
         "BUTTON_CMD": {
-            "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) බටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
+            "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) \nබටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
             "value":"btn"
         },
         "ALIVE_LOGO": {
@@ -20,7 +20,8 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*\n𝙺𝙸𝙽𝙶 𝙱𝙾𝚃 𝙸𝚂 𝙳𝙾𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚂𝙾𝙽𝙶 ➛ 🇱🇰(•̀ᴗ•́)"
+            "value": "🖲️. ᴋɪɴɢ ʙᴏᴛ𝙸𝚂 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚂𝙾𝙽𝙶"
+
 
         },
         "SONG_DOWNLOAD": {
