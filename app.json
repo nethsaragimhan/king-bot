@@ -1,12 +1,12 @@
 {
-    "name": "⎝🛡️ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ  🛡️⎠ WhatsApp User Bot v1.0.0",
-    "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
-    "logo": "https://telegra.ph/file/35883180004518cb15fe9.jpg",
-    "keywords": ["Janith sadanuwan | PG", "Dragon x"],
+    "name": "[🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️] WhatsApp User Bot v1.0.0",
+    "description": "World best Sinhala/English WhatsApp Button Bot Developer 𝙽𝙴𝚃𝙷𝚂𝙰𝚁𝙰 𝙶𝙸𝙼𝙷𝙰𝙽 Enjoy Our Bot",
+    "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
+    "keywords": ["Nethsara Gimhan | PG", "King Bot"],
     "stack": "container",
     "env": {
-      "DRAGONX_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
+      "KINGBOT_SESSION": {
+            "description": "Paste your QR session that you got from https://replit.com/@ACSamankumara/King-bot-2.",
             "required": true
         },
         "BUTTON_CMD": {
@@ -20,19 +20,19 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*"
+            "value": "*ඔබගේ ගීතය 🅄🄿🄻🄾🄰🄳 කරමින් පවතියි⃝⃝̈̍̍̍̈̇̑🔥̥̥̥̥̤̤̤⃟⃟✨᭄*\n\n00:00 ●━━━━━━━━━━━━ 03:30 \n    ⇆        ◁ㅤㅤ❚❚ㅤㅤ▷          ↻\n\n════════════❀⦂⦁◦►\n𝙿𝙾𝚆𝙴𝚁𝙴𝙳 ʙʏ  [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️]\n════════════❀⦂⦁◦►"
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය බාගත කරමින් ඇත....*"
+            "value": "*ඔබගේ ගීතය 🄳🄾🅆🄽🄻🄾🄰🄳 කරමින් පවතියි⃝⃝̈̍̍̍̈̇̑🔥̥̥̥̥̤̤̤⃟⃟✨᭄*\n\n00:00 ●━━━━━━━━━━━━ 03:30 \n    ⇆        ◁ㅤㅤ❚❚ㅤㅤ▷          ↻\n\n════════════❀⦂⦁◦►\n𝙿𝙾𝚆𝙴𝚁𝙴𝙳 ʙʏ  [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️]\n════════════❀⦂⦁◦►"
         },
         "VIDEO_UPLOAD": {
             "description": "VIDEO UPLOADING MESSAGE",
-            "value":"🔮.  *ඔබ ඉල්ලූ  විඩීයෝව ඔබ වෙත එවමින් ඇත.*"
+            "value":"*ඔබගේ වීඩියෝව 🄳🄾🅆🄽🄻🄾🄰🄳 කරමින් පවතියි⃝⃝̈̍̍̍̈̇̑🔥̥̥̥̥̤̤̤⃟⃟✨᭄*\n\n00:00 ●━━━━━━━━━━━━ 03:30 \n    ⇆        ◁ㅤㅤ❚❚ㅤㅤ▷          ↻\n\n════════════❀⦂⦁◦►\n𝙿𝙾𝚆𝙴𝚁𝙴𝙳 ʙʏ  [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️]\n════════════❀⦂⦁◦►"
         },
         "VIDEO_DOWNLOAD": {
             "description": "VIDEO DOWNLOADING MESSAGE",
-            "value":"🔮.  *ඔබ  ඉල්ලූ විඩීයෝව  බාගත කරමින් ඇත....*"
+            "value":"*ඔබගේ වීඩියෝව 🅄🄿🄻🄾🄰🄳 කරමින් පවතියි⃝⃝̈̍̍̍̈̇̑🔥̥̥̥̥̤̤̤⃟⃟✨᭄*\n\n00:00 ●━━━━━━━━━━━━ 03:30 \n    ⇆        ◁ㅤㅤ❚❚ㅤㅤ▷          ↻\n\n════════════❀⦂⦁◦►\n𝙿𝙾𝚆𝙴𝚁𝙴𝙳 ʙʏ  [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️]\n════════════❀⦂⦁◦►"
         },
         "TIME_ZONE": {
             "description": "YOUR COUNTRY TIME ZONE ලන්කාවෙ අය තියන විදිහට තියන්න..",
@@ -203,7 +203,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡ᗪᖇ𝙰𝙶𝚘𝚗 Ӽ 🛡աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭⎠│"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️] աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭  "
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
