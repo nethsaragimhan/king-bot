@@ -1,9 +1,9 @@
-FROM ravindu01manoj/sewqueen:fullcontrol
+FROM nethsaragimhan/king-bot:fullcontrol
 
-RUN git clone https://github.com/ravindu01manoj/Sew-Queen /root/QueenSewWhatsappBot
-WORKDIR /root/QueenSewWhatsappBot/
+RUN git clone https://github.com/nethsaragimhan/King-Wa-Bot-Main /root/KingWhatsappBot
+WORKDIR /root/KingWhatsappBot/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
 
-CMD ["node", "sew.js"]
+CMD ["node", ".js"]
