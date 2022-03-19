@@ -1,11 +1,11 @@
 {
-    "name": "Sew-Queen",
+    "name": "[🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️]",
     "description": "World Best Whatsapp Bot",
-    "logo": "https://i.ibb.co/cQQ7RkC/main.jpg",
-    "keywords": ["sew", "sewqueen"],
+    "logo": "",
+    "keywords": ["king", "kingbot"],
     "stack": "container",
     "env": {
-        "_SEW_QUEEN_SESSION": {
+        "KINGBOT_SESSION": {
             "description": "Scan the QR code and enter the code obtained. QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
             "required": true
         },
@@ -17,27 +17,27 @@
         "S_DOWN_SONG": {
             "description": "Enter the audio download message... ශබ්ද බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*I'm Searching your song*_ ✨➾🔎"
+            "value": "_*I'm Searching your song*_ 🇱🇰➾🔎"
         },
         "S_UP_SONG": {
             "description": "Enter the audio upload message... ශබ්ද උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Im Uploading your song*_ ✨➾🎲"
+            "value": "_*Im Uploading your song*_ 🇱🇰➾🎲"
         },
         "S_DOWN_VID": {
             "description": "Enter the video download message... වීඩියෝ බාගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*I'm Bringing your video*_ ✨➾🔎"
+            "value": "_*I'm Bringing your video*_ 🇱🇰➾🔎"
         },
         "S_UP_VID": {
             "description": "Enter the video upload message... වීඩියෝ උඩුගත වීමේ පණිවිඩය ඇතුලත් කරන්න",
             "required": true,
-            "value": "_*Im Uploading your video*_ ✨➾🎲"
+            "value": "_*Im Uploading your video*_ 🇱🇰➾🎲"
         },
         "MENU_HEADER": {
             "description": "ITS CHANGE YOUR CMD LIST HEADER",
             "required": true,
-            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *SEW QUEEN WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n THIS IS SEW QUEEN CMD MENU"
+            "value": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━\n┃   *KING WHATSAPP BOT*\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n *THIS IS KING BOT'S CMD MENU"
         },
         "GROUP_MANAGE": {
             "description": "If you want the admin in the group to be able to use the admin command too, enter true. සමූහය තුල සිටින ඇඩ්මින් හටද ඇඩ්මින් විදාන භාවිතා කිරීමට හැකි සේ සැකසීම අවශ්‍යයි නම් true ලෙස ඇතුලත් කරන්න",
@@ -54,18 +54,14 @@
             "required": true,
             "value": "false"
         },
-        "SPAM_CMD": {
-            "description": "Changeble Spam CMD... ස්පෑම් සදහා ඌ විදානය ලබා දෙන්න",
-            "required": true,
-            "value": "hunt"
-        },
+        
         "BAD_KICK": {
             "description": "BAD WORD &  GROUP LINK KICKING SYSTEM.. අසබ්‍ය වචන හා ගෲප් ලින්ක් දමන්නන් ඉවත් කිරීමේ පද්දතිය",
             "required": true,
             "value": "true"
         },
         "ALIVE_LOGO": {
-            "description": "Add Your Alive Logo",
+            "description": "Add Your Alive Logo.",
             "required": false
         },
         "WARN_MSG": {
@@ -86,21 +82,19 @@
         "CAPTION_NAME": {
             "description": "කැප්ශන් එක ඇතුලත් කරන්න... Enter the Caption",
             "required": false
+            "value": "▷ ᴹᴬᴰᴱ 🄱🅈 [🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️] աɦ𝐚𝐭𝐬𝐚𝐩𝐩 𝐔𝐬𝐞𝐫 𝐁𝐨𝐭"
          },
-          "ZZ_PASSWORD": {
-            "description": "බොට්ව සෑදීම සදහා පාස්වර්ඩ් එකක් අවශ්‍ය අතර වීඩියෝව නරඹා එය ලබා ගන්න.password required.. watch the video ==> https://youtu.be/AKU7YVXxMbM",
-            "required": true
-         },
+          
         "OWNER_SHIP": {
             "description": "බොට් අයිතිකරුගේ නාමය ඇතුලත් කරන්න ==> Input The Owner Name",
             "required": false,
-            "value": "RAVINDU MANOJ"
+            "value": "𝙽𝙴𝚃𝙷𝚂𝙰𝚁𝙰 𝙶𝙸𝙼𝙷𝙰𝙽"
         },
         
         "YOUR_BOT_NAME": {
             "description": "බොට්ගේ නාමය ඇතුලත් කරන්න ==> Input The Bot Name",
             "required": false,
-            "value": "✬ MS SEW ✬"
+            "value": "❰[🇱🇰𝐊𝐢𝐧𝐠 𝐁𝐨𝐭✌️]❱"
         },
         "NO_LOG": {
             "description": "Set true if you don't want to see error log.",
@@ -142,7 +136,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Sew Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "King Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -218,12 +212,8 @@
             "required": false,
             "value": "false"
         },
-        "COFFEEHOUSE_API_KEY": {
-            "description": "Pass This Step!",
-            "required": false,
-            "value": "true"
-        }
-    },
+         },
+    
     "addons": [{
       "plan": "heroku-postgresql"
     }],
