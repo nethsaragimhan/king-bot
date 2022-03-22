@@ -1,9 +1,10 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/nethsaragimhan/King-Wa-Bot-Main.git /root/WhatsAsenaDuplicated
-WORKDIR /root/WhatsAsenaDuplicated/
-ENV TZ=Asia/Colombo
+RUN git clone https://github.com/nethsaragimhan/King-Wa-Bot-Main /root/WhatsAsena
+WORKDIR /root/WhatsAsena/
+ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
-RUN yarn install --no-audit
+RUN apk --no-cache
+RUN npm install
 
 CMD ["node", "bot.js"]
