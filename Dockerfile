@@ -4,7 +4,6 @@ RUN git clone https://github.com/nethsaragimhan/King-Wa-Bot-Main /root/WhatsAsen
 WORKDIR /root/WhatsAsena/
 ENV TZ=Europe/Istanbul
 RUN npm install supervisor -g
-RUN apk --no-cache
-RUN npm install
+RUN yarn install --no-audit
 
 CMD ["node", "bot.js"]
