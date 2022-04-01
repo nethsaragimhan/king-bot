@@ -9,10 +9,6 @@
             "description": "Paste your QR session that you got from https://replit.com/@ACSamankumara/King-bot-2.",
             "required": true
         },
-        "BUTTON_CMD": {
-            "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) බටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
-            "value":"btn"
-        },
         "ALIVE_LOGO": {
             "description": "If you do not want to change Alive Logo put here to your image direct link or, type default.",
             "required": false,
