@@ -1,21 +1,13 @@
 {
-    "name": "[🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘] WhatsApp User Bot V1.0.0",
-    "description": "World best Sinhala/English WhatsApp Button Bot Developer White Hackers😎 Enjoy Our Bot",
-    "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
-    "keywords": ["Tech with A.N.G. | WHITE HACKERS", "KING"],
+    "name": "🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 WhatsApp User Bot v5.0.0",
+    "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
+    "logo": "https://telegra.ph/file/f3b0b4e681583334b7330.jpg",
+    "keywords": ["Achi Bro lk | PG", "ALPHA"],
     "stack": "container",
     "env": {
-      "KINGBOT_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@ACSamankumara/King-bot-2?v=1.  කින්ග් qr කේතය යොදන්න.",
+      "ALPHA_SESSION": {
+            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1. ඇල්ෆා qr කේතය යොදන්න.",
             "required": true
-        },
-        "BUTTON_CMD": {
-            "description": "YOU NEED BUTTON COMMANDS TYPE ( btn ) YOU NEED TEXT COMMAND TYPE ( txt ) බටන් කමාන්ඩ් සමහර ෆෝන් වලට වැඩ කරන් නෑ..",
-            "value":"btn"
-        },
-          "MENU_CMD": {
-            "description": "TYPE YOUR MENU COMMAND.ඔබෙ මෙනු එක ගැනිම සදහා අවශ්‍ය නම් විදානයක් සකසන්න.",
-            "value":"alpha"
         },      
         "ALIVE_LOGO": {
             "description": "If you do not want to change Alive Logo put here to your image direct link or, type default. ඔබගෙ alive logo එක සාදහා ඔබෙ logo එකක් යේදිමට අවශ්‍ය නම් මෙහි link එක යොදන්න.",
@@ -24,19 +16,19 @@
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE අවශ්‍ය නම් මෙය වෙනස් කරගන්න.",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*"
+            "value": "🇱🇰🎭.  *ඔබ සෙවූ ගීතය ඔබ වෙත එවමින් ඇත....*"
         },
         "SONG_DOWNLOAD": {
             "description": "SONG DOWNLOADING MESSAGE අවශ්‍ය නම් මෙය වෙනස් කරගන්න.",
-            "value": "🖲️.  *ඔබ සෙවූ ගීතය බාගත කරමින් ඇත....*"
+            "value": "🇱🇰🎭.  *ඔබ සෙවූ ගීතය බාගත කරමින් ඇත....*"
         },
         "VIDEO_UPLOAD": {
             "description": "VIDEO UPLOADING MESSAGE අවශ්‍ය නම් මෙය වෙනස් කරගන්න.",
-            "value":"🔮.  *ඔබ ඉල්ලූ  විඩීයෝව ඔබ වෙත එවමින් ඇත.*"
+            "value":"🇱🇰🎭.  *ඔබ ඉල්ලූ  විඩීයෝව ඔබ වෙත එවමින් ඇත.*"
         },
         "VIDEO_DOWNLOAD": {
             "description": "VIDEO DOWNLOADING MESSAGE අවශ්‍ය නම් මෙය වෙනස් කරගන්න.",
-            "value":"🔮.  *ඔබ  ඉල්ලූ විඩීයෝව  බාගත කරමින් ඇත....*"
+            "value":"🇱🇰🎭.  *ඔබ  ඉල්ලූ විඩීයෝව  බාගත කරමින් ඇත....*"
         },
         "TIME_ZONE": {
             "description": "YOUR COUNTRY TIME ZONE ලන්කාවෙ අය තියන විදිහට තියන්න..",
@@ -150,8 +142,9 @@
             "value":"https://telegra.ph/file/3a2582be8423628a180c0.gif"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space. ඔබගෙ photos වල background ඉවත් කිරිමට අවශ්‍ය නම මෙම api කෙතය නෙහි යොදන්න. ",
-            "required": false
+            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space. ඔබගෙ photos වල background ඉවත් කිරිමට අවශ්‍ය නම මෙම api කෙතය නෙහි යොදන්න. thiyna code eka use karnna one num ekath wada karnwa",
+            "required": false,
+            "value": "h2N1wqk38UrKfU44tZyPPWP3"
         },
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case. ඔබට alive massage එකට අවශ්‍ය ලෙස මෙහි එය යොදන්න.",
@@ -196,7 +189,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION  මෙහි ඔබගෙ බොට්ගෙ නම යොදන්න. ",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝[🇱🇰𝙺𝙸𝙽𝙶 𝙱𝙾𝚃🤘]│"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 𝙰𝙻𝙿𝙷𝙰 🇱🇰🎭 │"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this. කිසිවක් වෙනස් නොකරන්න. ",
